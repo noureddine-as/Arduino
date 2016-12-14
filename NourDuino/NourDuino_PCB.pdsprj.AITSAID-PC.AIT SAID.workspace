@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <WORKSPACE>
  <FRAME activewindow="2">
-  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff00000000200000001e0300004e020000</PLACEMENT>
+  <PLACEMENT>2c00000002000000030000000083ffff0083ffffffffffffffffffff00000000200000001e0300004e020000</PLACEMENT>
   <WINDOW type="default" module="ISIS"/>
   <WINDOW type="default" module="ARES"/>
   <WINDOW type="VIEW3D" module="VIEW3D">
    <camera>
-    <position x="3527435" y="-566324" z="6193142"/>
-    <focus x="-245817" y="-368343" z="-247398"/>
-    <up x="-440231" y="851754" z="284097"/>
+    <position x="374383" y="-2906948" z="7123172"/>
+    <focus x="0" y="-317500" z="0"/>
+    <up x="-17634" y="939383" z="342416"/>
    </camera>
   </WINDOW>
  </FRAME>
@@ -72,7 +72,7 @@
      <ITEM name="TopLineAddress">00000000</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="16" x="186" flags="80000000" y="247" h="32" pid="14" iid="1">
+   <POPUP w="16" x="186" flags="00000000" y="247" h="32" pid="14" iid="1">
     <PROPERTIES>
      <ITEM name="DataType">2</ITEM>
      <ITEM name="DispChars">Yes</ITEM>
